@@ -1,0 +1,52 @@
+body {
+ font-size: 12pt;
+ color: #fff;
+}
+
+h1 {
+ padding: 5px 0px 15px 0px;
+ font-family:'Roboto Condensed', sans-serif;
+ margin: 2px;
+}
+
+div {
+ background-color: LightBlue;
+ font-family: 'Roboto Condensed', sans-serif;
+}
+
+ul.navbar-nav {
+ font-family: 'Roboto Condensed', sans-serif;
+ text-align: center;
+ border: 2px solid black;
+}
+
+li {
+ border: 1px solid black;
+}
+
+p {
+ padding: 2px;
+}
+
+h3 {
+ padding: 2px;
+}
+
+.navbar-nav {
+ width: 100%;
+}
+
+@media (min-width: 576px) { 
+     .navbar-toggle {
+}
+ }
+
+@media (min-width: 768px) { 
+     .navbar-toggle {
+}
+ }
+
+@media (min-width: 992px) { 
+     .navbar-toggle {
+}
+ }
